@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pdfplumber
+sentence-transformers
+faiss-cpu
+openai
+scikit-learn
+python-multipart
+python-dotenv
+pydantic
+google-generativeai

@@ -1,0 +1,184 @@
+[
+  {
+    "company": "Stripe",
+    "title": "Senior Backend Developer",
+    "skills": "Java, Spring Boot, Apache Kafka, Postgres, microservices, gRPC",
+    "experience": "6+ years building financial transactional systems and event-driven architectures with high throughput.",
+    "education": "BS/MS in Computer Science or equivalent practical engineering experience."
+  },
+  {
+    "company": "Google",
+    "title": "Senior Backend Developer",
+    "skills": "Python, FastAPI, API design, Docker, FAISS, distributed systems",
+    "experience": "8+ years scaling machine learning pipelines, vector databases, and massive concurrent systems.",
+    "education": "Ph.D. or Master's in Computer Science, focusing on scalable algorithms."
+  },
+  {
+    "company": "Amazon",
+    "title": "Data Scientist",
+    "skills": "Python, Pandas, AWS SageMaker, Scikit-learn, TensorFlow",
+    "experience": "3-5 years building machine learning models, predictive regression analysis, and deploying models to production.",
+    "education": "Master's degree in Data Science, Statistics, Mathematics or heavily quantitative field."
+  },
+  {
+    "company": "TikTok",
+    "title": "Data Scientist",
+    "skills": "R, advanced SQL, Python, Spark",
+    "experience": "4+ years designing massive scale statistical A/B testing frameworks, causal inference, and user behavior experimentation.",
+    "education": "Ph.D. in Economics, Statistics, or Behavioral Science."
+  },
+  {
+    "company": "Netflix",
+    "title": "Frontend Engineer",
+    "skills": "React, TypeScript, Redux, stunning UI/UX, Webpack",
+    "experience": "5+ years optimizing web performance, lazy-loading content streaming interfaces, and building resilient SPAs.",
+    "education": "Bachelor's in HCI, Computer Science, or self-taught with exceptional portfolio."
+  },
+  {
+    "company": "Shopify",
+    "title": "Frontend Engineer",
+    "skills": "Vue.js, Vuex, Webpack, Liquid templates, CSS Grid",
+    "experience": "3+ years building heavily optimized e-commerce platforms focused on high conversion-rate UX.",
+    "education": "Any degree program. Bootcamp graduates with deep E-commerce portfolios accepted."
+  },
+  {
+    "company": "Meta",
+    "title": "DevOps Engineer",
+    "skills": "Kubernetes, Terraform, bash scripting, CI/CD pipelines, Prometheus",
+    "experience": "5+ years handling massive planetary-scale cloud deployments and heavy traffic load balancing.",
+    "education": "BS in Computer Science or significant open-source infrastructure contributions."
+  },
+  {
+    "company": "OpenAI",
+    "title": "AI Platform Engineer",
+    "skills": "LLMs integration, Python, FastAPI, embeddings generation, vector search",
+    "experience": "4+ years in ML Ops, strong mathematical foundation, experience managing massive GPU clusters.",
+    "education": "Master's in Computer Science or specialized AI/ML degree."
+  },
+  {
+    "company": "Microsoft",
+    "title": "Senior Software Engineer",
+    "skills": "C#, .NET Core, Azure Cloud, Entity Framework, SQL Server",
+    "experience": "7+ years enterprise software architecture, cloud migrations, and managing secure cloud environments.",
+    "education": "Bachelor's degree in Computer Engineering or related field."
+  },
+  {
+    "company": "Apple",
+    "title": "iOS Developer",
+    "skills": "Swift, UIKit, SwiftUI, CoreData, Instruments",
+    "experience": "4+ years of high-performance mobile engineering, deep understanding of memory management and battery life optimization.",
+    "education": "BS in Computer Science."
+  },
+  {
+    "company": "Spotify",
+    "title": "Data Engineer",
+    "skills": "Scala, Apache Spark, Hadoop, BigQuery, Kafka",
+    "experience": "5+ years building enormous data pipelines to handle real-time streaming telemetry and analytics.",
+    "education": "MS in Computer Science or Data Engineering."
+  },
+  {
+    "company": "Databricks",
+    "title": "Data Engineer",
+    "skills": "Python, PySpark, dbt, Apache Airflow, Snowflake",
+    "experience": "3+ years building modern streaming lakehouse architectures and optimizing complex ETL processes.",
+    "education": "Bachelor's in Computer Science or Information Systems."
+  },
+  {
+    "company": "Airbnb",
+    "title": "Full Stack Developer",
+    "skills": "Ruby on Rails, React, GraphQL, Postgres",
+    "experience": "4+ years bridging complex backend queries with modern component-driven frontends.",
+    "education": "BS in Computer Science."
+  },
+  {
+    "company": "Palantir",
+    "title": "Full Stack Developer",
+    "skills": "Java Spring Boot, Angular, Micro-frontends, secure architecture",
+    "experience": "5+ years building highly secure systems with strict data compliance protocols and complex data visualization.",
+    "education": "BS/MS in Computer Science. Must be eligible for government security clearances."
+  },
+  {
+    "company": "Uber",
+    "title": "Backend Systems Engineer",
+    "skills": "Go (Golang), gRPC, Cassandra, Redis",
+    "experience": "6+ years designing highly concurrent microservices and solving geographic load balancing challenges.",
+    "education": "BS in Computer Engineering."
+  },
+  {
+    "company": "Tesla",
+    "title": "Embedded Systems Engineer",
+    "skills": "Low-level C programming, C++, RTOS, CAN bus communication",
+    "experience": "5+ years developing firmware directly addressing hardware components and real-time safety critical systems.",
+    "education": "BS in Electrical Engineering or Computer Engineering."
+  },
+  {
+    "company": "Discord",
+    "title": "Systems Engineer",
+    "skills": "Rust, Tokio runtime, Websockets, multi-threading",
+    "experience": "4+ years writing hyper-performant, low-latency network applications handling millions of concurrent users.",
+    "education": "BS in Computer Science or significant low-level programming experience."
+  },
+  {
+    "company": "Red Hat",
+    "title": "Systems Engineer",
+    "skills": "Deep C programming, Linux Kernel, POSIX, bash",
+    "experience": "8+ years in operating system internals, memory allocation strategies, and deep Linux driver development.",
+    "education": "BS/MS in Computer Science."
+  },
+  {
+    "company": "Adobe",
+    "title": "Computer Vision Engineer",
+    "skills": "OpenCV, C++, PyTorch, CUDA",
+    "experience": "5+ years writing complex image processing algorithms, generative models, and optimizing neural networks on GPUs.",
+    "education": "Ph.D. in Computer Science or Applied Mathematics."
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Site Reliability Engineer",
+    "skills": "Linux internals, BGP networking, Nginx, DNS",
+    "experience": "6+ years operating at the edge of the internet, mitigating DDoS attacks, and writing extreme load balancers.",
+    "education": "BS in Network Engineering or equivalent certifications."
+  },
+  {
+    "company": "CrowdStrike",
+    "title": "Cybersecurity Analyst",
+    "skills": "Threat hunting, Incident response, SIEM, Malware reverse engineering",
+    "experience": "4+ years conducting vulnerability assessments and actively monitoring advanced persistent threats.",
+    "education": "BS in Cybersecurity or strictly equivalent military/agency experience."
+  },
+  {
+    "company": "Robinhood",
+    "title": "Android Engineer",
+    "skills": "Kotlin, Jetpack Compose, Coroutines, MVVM",
+    "experience": "4+ years building fluid, highly reactive mobile interfaces, especially live financial charts.",
+    "education": "BS in Computer Science."
+  },
+  {
+    "company": "Snowflake",
+    "title": "Database Architect",
+    "skills": "C++, distributed databases, SQL parsers",
+    "experience": "10+ years engineering columnar storage formats, query optimizers, and deep database engine internals.",
+    "education": "MS/Ph.D. in Computer Science."
+  },
+  {
+    "company": "Epic Games",
+    "title": "Engine Developer",
+    "skills": "C++, Unreal Engine, 3D linear algebra, quaternions",
+    "experience": "6+ years writing rendering pathways, physics engines, and highly optimized multiplayer packet logic.",
+    "education": "BS in Computer Science or interactive media design."
+  },
+  {
+    "company": "LinkedIn",
+    "title": "Machine Learning Engineer",
+    "skills": "NLP, PyTorch, Hadoop, recommendation algorithms",
+    "experience": "4+ years building massive social graph link prediction models and real-time feed sorting engines.",
+    "education": "MS in Artificial Intelligence or Data Science."
+  },
+  {
+    "company": "Slack",
+    "title": "QA Automation Engineer",
+    "skills": "Cypress, Selenium, TypeScript, CI/CD",
+    "experience": "3+ years designing bullet-proof end-to-end testing frameworks and injecting them natively into Github Actions.",
+    "education": "BS in Software Engineering."
+  }
+]
